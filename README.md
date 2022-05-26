@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwawrzkow" alt="mwawrzkow" /></a> </p>
 
-- 🔭 I’m currently working on **OpenGL engine**
+- 🔭 I’m currently working on **OpenGL framework**
 
 - 🌱 I’m currently learning **OpenGL**
 
