@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcin Wawrzków</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwawrzkow&label=Profile%20views&color=0e75b6&style=flat" alt="mwawrzkow" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwawrzkow" alt="mwawrzkow" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwawrzkow&no-bg=true&no-frame=true" alt="mwawrzkow" /></a> </p>
 
 - 🔭 I’m currently working on **OpenGL framework**
 
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:marcin.wawrzkow@outlook.com">Mail</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
