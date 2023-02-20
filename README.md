@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:marcin.wawrzkow@outlook.com">Mail</a>
+<a href="mailto:marcin.wawrzkow@alldaydev.com">Mail</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
