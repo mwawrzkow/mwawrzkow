@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwawrzkow&no-bg=true&no-frame=true" alt="mwawrzkow" /></a> </p>
 
-- 🔭 I’m currently working on **OpenGL framework**
+- 🔭 I’m currently working on **OpenGL framework/Game Development**
 
-- 🌱 I’m currently learning **OpenGL**
+- 🌱 I’m currently learning **OpenGL/DirectX/UE5**
 
-- 👯 I’m looking to collaborate on **ROS/C++/OpenGL**
+- 👯 I’m looking to collaborate on **C++/OpenGL/UE5**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
