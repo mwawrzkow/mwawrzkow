@@ -3,7 +3,7 @@
 
 * 🔭 I’m currently working on **production AI/ML infrastructure**: operating multiple **Kubernetes clusters**, including a **banking-sector AI platform** (KServe, Knative, model serving, observability), plus **C++ / Python / Java pipelines** used by real clients
 * 🌱 I’m continuously deepening **platform engineering and systems work**: Kubernetes internals, security, observability, CI/CD, Git workflows, and **performance-oriented C++**, with **game engine development (Unreal)** as a low-level systems extension
-* 👯 I’m open to collaborating on **AI/ML platform engineering**, **Kubernetes-native systems**, **C++ infrastructure or tooling**, and **serious Unreal / engine-level projects** (not hobby apps)
+* 👯 I’m open to collaborating on **AI/ML platform engineering**, **Kubernetes-native systems**, **C++ infrastructure or tooling**, and **engine-level projects** 
 
 
 
