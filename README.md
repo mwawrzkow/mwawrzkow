@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marcin Wawrzków</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwawrzkow&label=Profile%20views&color=0e75b6&style=flat" alt="mwawrzkow" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwawrzkow&no-bg=true&no-frame=true" alt="mwawrzkow" /></a> </p>
+* 🔭 I’m currently working on **production AI/ML infrastructure**: operating multiple **Kubernetes clusters**, including a **banking-sector AI platform** (KServe, Knative, model serving, observability), plus **C++ / Python / Java pipelines** used by real clients
+* 🌱 I’m continuously deepening **platform engineering and systems work**: Kubernetes internals, security, observability, CI/CD, Git workflows, and **performance-oriented C++**, with **game engine development (Unreal)** as a low-level systems extension
+* 👯 I’m open to collaborating on **AI/ML platform engineering**, **Kubernetes-native systems**, **C++ infrastructure or tooling**, and **serious Unreal / engine-level projects** (not hobby apps)
 
-- 🔭 I’m currently working on **Advanced Game Development using Unreal Engine and Full-Stack Web Applications**
-- 🌱 I’m currently learning **Advanced Graphics Programming, Backend Technologies, and Web Frameworks**
-- 👯 I’m looking to collaborate on **Game Development, Full-Stack Projects, and Innovative Software Solutions**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:marcin.wawrzkow@alldaydev.com">Mail</a>
-</p>
+
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="mailto:marcin.wawrzkow@alldaydev.com">Mail</a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
